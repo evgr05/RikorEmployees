@@ -71,6 +71,7 @@ namespace Rikor.Pages
         private void PostBtn_Click(object sender, RoutedEventArgs e)
         {
             FrameApp.frmObj.Navigate(new PagePosts());
+            //
         }
     }
 }
